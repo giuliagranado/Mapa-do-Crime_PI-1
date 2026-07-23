@@ -45,7 +45,7 @@ A análise realizada entre **2017 e 2024** permitiu identificar:
 ## 📸 Demonstração
 Exemplo de dashboard desenvolvido no projeto:
 
-![Dashboard de Criminalidade](dashboard/fotodashboard.png)
+![Dashboard de Criminalidade](dashboard/fotodashboard.jpeg)
 
 ---
 
