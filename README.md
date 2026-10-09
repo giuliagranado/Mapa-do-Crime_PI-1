@@ -25,10 +25,10 @@ O projeto combina **pipeline de dados (ETL)** e **dashboards interativos** para 
 ---
 
 ## 📂 Estrutura do Repositório
+- `codigos/` → scripts etl de extração, transformação e carga  
 - `dados/` → bases de dados brutas e tratadas  
-- `codigo/` → scripts etl de extração, transformação e carga  
-- `dashboard/` → arquivos do Power BI  
-- `docs/` → documentação e artigo científico  
+- `dashboard/` → dashboard gerado no Power BI e versão digital
+- `docs/` → documentação e artigo científico
 
 ---
 
