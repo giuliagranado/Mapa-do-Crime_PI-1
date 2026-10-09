@@ -20,8 +20,6 @@ Cidades: Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Gra
 
 Abra o arquivo `index.html` no navegador. Os dados já estão dentro do arquivo. É preciso internet para carregar as bibliotecas de gráficos e o mapa de fundo.
 
-Para publicar no GitHub Pages: envie o `index.html` ao repositório e ative o Pages em **Settings → Pages**, usando a branch `main` e a pasta `/ (root)`.
-
 ## Tecnologias
 
 - HTML, CSS e JavaScript em um único arquivo
